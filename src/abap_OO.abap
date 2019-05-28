@@ -1,7 +1,7 @@
 REPORT  ysdnblog_class_static.
 PARAMETERS : p_rows TYPE count DEFAULT ‘100’.
 
-*version EUH
+*version standalone
 *———————————————————————-*
 *       CLASS lcl_main DEFINITION
 *———————————————————————-*
